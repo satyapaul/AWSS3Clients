@@ -1,0 +1,7 @@
+com/aws/s3/clients/LowLevelMultipartUpload.class
+com/aws/s3/clients/XferMgrProgress$1.class
+com/aws/s3/clients/JavaFileCopy.class
+com/aws/s3/clients/XferMgrProgress.class
+com/aws/s3/clients/XferMgrUpload.class
+com/aws/s3/clients/S3ProxyFileUpload.class
+com/aws/s3/clients/SimpleUploadObject.class
